@@ -15,4 +15,11 @@
   <h3> Our Menu</h4>
   <h3>Contact</h5>
 </body>
-</html>
+</html
+
+ body{
+    background: azure;
+    color: chocolate;
+    text-align: center;
+    background-color: burlywood;
+}

@@ -17,9 +17,3 @@
 </body>
 </html
 
- body{
-    background: azure;
-    color: chocolate;
-    text-align: center;
-    background-color: burlywood;
-}
